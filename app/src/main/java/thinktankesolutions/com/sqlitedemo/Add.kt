@@ -102,9 +102,9 @@ class Add : AppCompatActivity() {
         val etPhone: EditText = findViewById(R.id.etPhone)
         val etEmail: EditText = findViewById(R.id.etEmail)
 
-        etName.text.clear();
-        etAge.text.clear();
-        etPhone.text.clear();
-        etEmail.text.clear();
+        etName.text.clear()
+        etAge.text.clear()
+        etPhone.text.clear()
+        etEmail.text.clear()
     }
 }
